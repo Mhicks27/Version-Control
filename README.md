@@ -1,3 +1,38 @@
-# Version-Control 
+# GitHatesme
 
-Our code prompts the user to input their name; it then prints this information and does the same with their favorite food.
+GitHatesme is a Python library that runs a simple code letting the user input their name and favorite food which the program will then print out.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install GitHatesme.
+
+```bash
+pip install Githatesme
+```
+
+## Usage
+
+```python
+import GitHatesme
+
+#Asks user for name
+name = input("Hey whats your name?")
+
+#prints out users name
+print("So your name is " + name)
+
+#Asks user for favorite food
+food = input("Whats your favorite food?")
+
+#Prints out the user's name and favorite food
+print("Cool so your name is " + name + " and your favorite food is " + food)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+## License
+
+[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
