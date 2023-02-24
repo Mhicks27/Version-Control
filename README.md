@@ -36,3 +36,5 @@ Please make sure to update tests as appropriate.
 ## License
 
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## We used GNU because we wanted to make sure everyone had the freedom to contribute and refine our code to their desires. As for the code of conduct we used Citizens just to make sure everyone is using our code responsibly. 
